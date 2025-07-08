@@ -1,7 +1,9 @@
 # MasterMindGame
-this project for savvy and education purposes Only.
+This project for savvy and education purposes Only.
 
 This is a simple console-based version of the classic Mastermind game, developed in C# using object-oriented programming principles.
+
+The link for the repository : https://github.com/Yauzuroro/MasterMindGame/tree/main
 
 ## About the Game
 
